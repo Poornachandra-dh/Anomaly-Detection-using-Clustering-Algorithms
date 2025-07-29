@@ -39,5 +39,6 @@ Here’s a GitHub project description tailored specifically for **Anomaly Detect
 * Anomalous behavior in user sessions
 * Quality control in manufacturing
 
----
+[AirPassengers.csv](https://github.com/user-attachments/files/21495440/AirPassengers.csv)
 
+[healthcare.csv](https://github.com/user-attachments/files/21495438/healthcare.csv)
